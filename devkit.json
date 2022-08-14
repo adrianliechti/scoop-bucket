@@ -1,12 +1,12 @@
 {
-    "version": "0.0.8",
+    "version": "0.0.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adrianliechti/devkit/releases/download/v0.0.8/devkit_0.0.8_windows_amd64.tar.gz",
+            "url": "https://github.com/adrianliechti/devkit/releases/download/v0.0.9/devkit_0.0.9_windows_amd64.tar.gz",
             "bin": [
                 "devkit.exe"
             ],
-            "hash": "732b02fe5393aa39b889820f921f03ac29d52bd73bbaf25e8e1d73a60be42f56"
+            "hash": "605ab42853ebb58ea3b80302b3bbaae9e7df4d5c7f1c709ea1932c563125bf04"
         }
     }
 }
