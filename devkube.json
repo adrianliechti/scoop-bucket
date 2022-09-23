@@ -1,12 +1,12 @@
 {
-    "version": "0.0.9",
+    "version": "0.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adrianliechti/devkube/releases/download/v0.0.9/devkube_0.0.9_windows_amd64.tar.gz",
+            "url": "https://github.com/adrianliechti/devkube/releases/download/v0.1.0/devkube_0.1.0_windows_amd64.tar.gz",
             "bin": [
                 "devkube.exe"
             ],
-            "hash": "9baeafb9d65bb4a924773b40737b99aa6f8d74bce70f8a9f7418e4ada4d80649"
+            "hash": "bdfa2a172ddaa7f3d25255c4e3ef251060345008793012afca72cabfca7b312f"
         }
     }
 }
