@@ -1,12 +1,12 @@
 {
-    "version": "0.12.1",
+    "version": "0.14.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adrianliechti/loop/releases/download/v0.12.1/loop_0.12.1_windows_amd64.tar.gz",
+            "url": "https://github.com/adrianliechti/loop/releases/download/v0.14.0/loop_0.14.0_windows_amd64.tar.gz",
             "bin": [
                 "loop.exe"
             ],
-            "hash": "95d552c06418a530bfab8228d04c17adcd41969df0fc7e68b4b529ad6bc1bb9e"
+            "hash": "ad6e4f4021f26c6396477eed623eb48c3307ec1071bd91c0cef85ee173b02a13"
         }
     }
 }
