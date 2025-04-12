@@ -1,19 +1,19 @@
 {
-    "version": "0.23.2",
+    "version": "0.24.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adrianliechti/devkube/releases/download/v0.23.2/devkube_0.23.2_windows_amd64.tar.gz",
+            "url": "https://github.com/adrianliechti/devkube/releases/download/v0.24.0/devkube_0.24.0_windows_amd64.tar.gz",
             "bin": [
                 "devkube.exe"
             ],
-            "hash": "f39f54bd3932b4dd8e5d44f9c7517ac30922803be96add67f133e62835c98e9e"
+            "hash": "f1258274918684849e76a40eb146eadf2de6d3e7a29fc8e4bbf0f04f3b335212"
         },
         "arm64": {
-            "url": "https://github.com/adrianliechti/devkube/releases/download/v0.23.2/devkube_0.23.2_windows_arm64.tar.gz",
+            "url": "https://github.com/adrianliechti/devkube/releases/download/v0.24.0/devkube_0.24.0_windows_arm64.tar.gz",
             "bin": [
                 "devkube.exe"
             ],
-            "hash": "b781a40fc45c52cecd20be4798e53be9d86bc31f7ccb5d432494e81606201258"
+            "hash": "d2e6f2fcde111c148661842f49a017b781c62f033a488ab0e7fdbe4f24f27182"
         }
     }
 }
