@@ -1,19 +1,19 @@
 {
-    "version": "0.18.3",
+    "version": "0.19.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adrianliechti/loop/releases/download/v0.18.3/loop_0.18.3_windows_amd64.tar.gz",
+            "url": "https://github.com/adrianliechti/loop/releases/download/v0.19.0/loop_0.19.0_windows_amd64.tar.gz",
             "bin": [
                 "loop.exe"
             ],
-            "hash": "b69c6e39a20f5be473b81665d8576b5e8800d5ecd42c7c6dbefed9647b173950"
+            "hash": "0c405ec9ff958cad2573e48d63484053dfc27130c367b585a0ee400f4acdcdd7"
         },
         "arm64": {
-            "url": "https://github.com/adrianliechti/loop/releases/download/v0.18.3/loop_0.18.3_windows_arm64.tar.gz",
+            "url": "https://github.com/adrianliechti/loop/releases/download/v0.19.0/loop_0.19.0_windows_arm64.tar.gz",
             "bin": [
                 "loop.exe"
             ],
-            "hash": "5c76341de99ecea7f1db58d221dad92b63dc05143dd696e21a80ada4b304f8a3"
+            "hash": "e8796bdc89b61b5393fc41a0d08f06b7e9012c934ff31d35cc1dfdd2499621e6"
         }
     }
 }
