@@ -1,19 +1,19 @@
 {
-    "version": "0.0.10",
+    "version": "0.0.11",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adrianliechti/wingman-cli/releases/download/v0.0.10/wingman-cli_0.0.10_windows_amd64.tar.gz",
+            "url": "https://github.com/adrianliechti/wingman-cli/releases/download/v0.0.11/wingman-cli_0.0.11_windows_amd64.tar.gz",
             "bin": [
                 "wingman.exe"
             ],
-            "hash": "df4ae21fc789cbd9735604d670df816e26fe34fd0e3204c1a47758b612718c21"
+            "hash": "399d9f9d55eaaba2db699fec8a6f7d11a68048b88400a7e15b2bb803ac675a1b"
         },
         "arm64": {
-            "url": "https://github.com/adrianliechti/wingman-cli/releases/download/v0.0.10/wingman-cli_0.0.10_windows_arm64.tar.gz",
+            "url": "https://github.com/adrianliechti/wingman-cli/releases/download/v0.0.11/wingman-cli_0.0.11_windows_arm64.tar.gz",
             "bin": [
                 "wingman.exe"
             ],
-            "hash": "8dbccccf8cfd7a98320d013d72517f6f151280f2d5971796fe3000c4e7ba6707"
+            "hash": "5242ae3b6e9053453110ad3f1402b877ad30c5f756c7577385f7c520832fec5f"
         }
     }
 }
