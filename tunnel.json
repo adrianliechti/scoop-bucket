@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adrianliechti/tunnel/releases/download/v0.0.1/tunnel_0.0.1_windows_amd64.tar.gz",
+            "url": "https://github.com/adrianliechti/tunnel/releases/download/v0.0.2/tunnel_0.0.2_windows_amd64.tar.gz",
             "bin": [
                 "tunnel.exe"
             ],
-            "hash": "26bb4353fa3efe6775910530c6454a40495ef56ce66d20cedebc82de8ab3ff2d"
+            "hash": "39f10b7ae5b2a0d4352092a90fdd55fa8c5cbe96c80a044134ea3614c64f2785"
         },
         "arm64": {
-            "url": "https://github.com/adrianliechti/tunnel/releases/download/v0.0.1/tunnel_0.0.1_windows_arm64.tar.gz",
+            "url": "https://github.com/adrianliechti/tunnel/releases/download/v0.0.2/tunnel_0.0.2_windows_arm64.tar.gz",
             "bin": [
                 "tunnel.exe"
             ],
-            "hash": "c471c4f4b0e83260ea87a455635556783b4f36dfda73c20237afde488f277203"
+            "hash": "6765e96b277ebf2d1ce92bb42b15314c9d2e1f86e5ed73376ebf571733bbbd6b"
         }
     }
 }
