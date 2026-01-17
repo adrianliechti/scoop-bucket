@@ -6,14 +6,14 @@
             "bin": [
                 "wingman.exe"
             ],
-            "hash": "cc3524dc29a98999b25b06ffeae38eb178616c1442123007af89548e3d3e2cc8"
+            "hash": "d4fc3466a9b5d536748a8b85d771240dc8c1f44834f8e590aa19adadc6d0eb08"
         },
         "arm64": {
             "url": "https://github.com/adrianliechti/wingman-cli/releases/download/v0.3.0/wingman-cli_0.3.0_windows_arm64.tar.gz",
             "bin": [
                 "wingman.exe"
             ],
-            "hash": "4c540409612a58853f9a4da72033127b9d18cd67d9572649694137a74267ac33"
+            "hash": "9740d0b2fa9239e0d8a59026f92be86affb1746980f8294d9eddd476c0a3a74c"
         }
     }
 }
