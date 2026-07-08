@@ -6,14 +6,14 @@
             "bin": [
                 "wingman.exe"
             ],
-            "hash": "59ceb0fcc8d2a92594fcfed35ca5e4e3d1b2c66940a6940efbaa003d2be2a1a5"
+            "hash": "0d38f4912e079af81d493969001f5bdda3dd568331d708c82dad707a6ab20239"
         },
         "arm64": {
             "url": "https://github.com/adrianliechti/wingman-agent/releases/download/v0.10.1/wingman-agent_0.10.1_windows_arm64.zip",
             "bin": [
                 "wingman.exe"
             ],
-            "hash": "ab68684c89471e83431797aaa948d1b1701c96bc8bd0f728b844a0832f6174d0"
+            "hash": "477e40a2f2f725477b38d4eed9608a1fe72efb8c34dfe01baffc2992e9b1b0e4"
         }
     }
 }
