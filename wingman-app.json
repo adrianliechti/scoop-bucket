@@ -1,12 +1,12 @@
 {
-  "version": "0.16.10",
+  "version": "0.16.11",
   "description": "AI-powered coding assistant desktop app",
   "homepage": "https://github.com/adrianliechti/wingman-agent",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/adrianliechti/wingman-agent/releases/download/v0.16.10/wingman-app_0.16.10_Windows_x86_64.zip",
-      "hash": "39d1d9b871fdfc8e29bcca848c80991527fbb0223941bef754413a94fcaf1720"
+      "url": "https://github.com/adrianliechti/wingman-agent/releases/download/v0.16.11/wingman-app_0.16.11_Windows_x86_64.zip",
+      "hash": "f21cc6492de91a2a36fe3bc5122a87607fec0bdd35c237598afc87703dc8b04f"
     }
   },
   "shortcuts": [
