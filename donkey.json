@@ -1,19 +1,19 @@
 {
-    "version": "0.6.3",
+    "version": "0.6.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adrianliechti/donkey/releases/download/v0.6.3/donkey_windows_amd64.zip",
+            "url": "https://github.com/adrianliechti/donkey/releases/download/v0.6.4/donkey_windows_amd64.zip",
             "bin": [
                 "donkey.exe"
             ],
-            "hash": "cb810394e3e2ade08cdbcae602b26a7eb73af2d40caa2766f6f6be3d4a908a86"
+            "hash": "3f30ad49cf01c27b1321dfcea49748688413032c9f72f532a67110af175e299f"
         },
         "arm64": {
-            "url": "https://github.com/adrianliechti/donkey/releases/download/v0.6.3/donkey_windows_arm64.zip",
+            "url": "https://github.com/adrianliechti/donkey/releases/download/v0.6.4/donkey_windows_arm64.zip",
             "bin": [
                 "donkey.exe"
             ],
-            "hash": "91782b71d2d9f78b172a75889d9f0a24f4d6ece56b2979b145f3af2fda2bea1b"
+            "hash": "5016430b223f29812dbfdca58903ec0f8057b51f2fad698d732fb7ed316d39d9"
         }
     }
 }
