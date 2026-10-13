@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/adrianliechti/wingman-agent/releases/download/v0.17.9/wingman-app_0.17.9_Windows_x86_64.zip",
-      "hash": "fd0309a127fc6bcb9dbc5ad7c857bae25e9d60ad52d2182fb4e7f27ba976a533"
+      "hash": "b18432c2ca330be7e9cf6dc036064b72cada420f043aed99edacc943187b4d39"
     }
   },
   "shortcuts": [
